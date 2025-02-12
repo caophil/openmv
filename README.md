@@ -113,6 +113,7 @@ OPENMV4: Add readme template file.
 ports/stm32/main.c: Fix storage label.
 ```
 <<<<<<< HEAD
+<<<<<<< HEAD
 tests
 =======
 
@@ -124,3 +125,5 @@ Most of the code in the repository is licensed under the MIT license, with the f
 * Third-party libraries and drivers in `src/lib` and `src/drivers` are licensed under various permissive licenses. Please consult the LICENSE file in each driver/library subdirectory for more details.
 * Some drivers, modules, and libraries in OpenMV are proprietary and available for non-commercial use only. These proprietary components can be disabled during the build process. Official OpenMV hardware and licensed devices may use the proprietary code. For commercial licensing options, contact openmv@openmv.io.
 >>>>>>> 9781f8165bf92633fd11ea17cd10b9eb739400b3
+=======
+>>>>>>> parent of d04c62b8 (test)
