@@ -1,4 +1,3 @@
 # Models listed here are embedded into the firmware image only if they are enabled
 # by the board config. Other models in this directoy, not listed in this file, are
 # enabled by default.
-parkplatz.tflite,Performance
